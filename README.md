@@ -43,5 +43,6 @@
 - Decision Tree Classifier : f1-score = 0.99
 - Random Forest Classifier : f1-score = 0.99
 
-- ![confusion matrix of Random Forest Classifier:](https://github.com/PrachiPatel15/Fake-News-Detection/blob/main/confusion(RF).png)
+- confusion matrix of Random Forest Classifier:
+![](https://github.com/PrachiPatel15/Fake-News-Detection/blob/main/confusion(RF).png)
 
