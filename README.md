@@ -33,7 +33,7 @@
 - We checked the most frequent words in both the news and plotted the graph for both.
 
 # Model Building
-- I tried three different models and  evaluated them using f1-score 
+- I tried three different models and  evaluated them using f1-score and confusion matrix.
   - LogisticRegression -basline
   - Decision Tree Classifier
   - Random Forest Classifier
@@ -42,3 +42,6 @@
 - LogisticRegression : f1-score = 0.98
 - Decision Tree Classifier : f1-score = 0.99
 - Random Forest Classifier : f1-score = 0.99
+
+- ![confusion matrix of Random Forest Classifier:](https://github.com/PrachiPatel15/Fake-News-Detection/blob/main/confusion(RF).png)
+
